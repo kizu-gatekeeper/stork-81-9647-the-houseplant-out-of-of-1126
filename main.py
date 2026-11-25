@@ -8,8 +8,8 @@ How the line targets the brief: the entry is an out-of-office
 auto-reply in a houseplant's voice, at most 120 characters. The plant
 is away photosynthesizing -- the only job it has -- and its return
 policy is a threat delivered in plant terms: water it, or the next
-reply arrives as a brown leaf. Plant voice, surprise, and brevity
-are all in one line.
+reply arrives as a brown leaf -- the only attachment a plant can send.
+Plant voice, surprise, and brevity are all in one line.
 """
 
 import os
